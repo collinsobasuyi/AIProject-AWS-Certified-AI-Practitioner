@@ -1,0 +1,1 @@
+# AIProject-AWS-Certified-AI-Practitioner
